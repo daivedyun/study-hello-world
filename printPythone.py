@@ -22,6 +22,7 @@ print tinydict
 print tinydict.keys()
 print tinydict.values()
 print tinydict['name']
+print tinydict['dept']
 print '\n'
 
 print counter
