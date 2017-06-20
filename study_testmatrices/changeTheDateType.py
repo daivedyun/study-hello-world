@@ -17,7 +17,7 @@
 #unichr(x)             将一个整数转换为Unicode字符
 #ord(x)                将一个字符转换为它的整数值
 #hex(x)                将一个整数转换为一个十六进制字符串
-#oct(x)                将一个整数转换为一个八进制字符串
+#oct(a)                将一个整数转换为一个八进制字符串
 
 #https://github.com/daivedyun/study-hello-world.git
 #在linux上安装git客户端，系统为centos6.5 64位，方法步骤如下。
