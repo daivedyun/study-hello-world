@@ -19,6 +19,8 @@
 #hex(x)                将一个整数转换为一个十六进制字符串
 #oct(x)                将一个整数转换为一个八进制字符串
 
+#https://github.com/daivedyun/study-hello-world.git
+
 a = 100
 b = 110.2
 c = 90
