@@ -1,6 +1,22 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
+#
+#
+#Relatively low availability for sprint
+#
+#Completed test cases for qFifoLib.c
+#
+#Three libraries continued into S31 (due to complexity and size)
+#
+#hashLib.c
+#
+#pgPoolLib.c
+#
+#taskMemLib.c
+#
+#Team participated in reviews of requiremen
+#
 
 list = ["sddfsd",1000,2.3333,"jjjsdkj",333.332]
 tinylist = ["ilove","china"]
