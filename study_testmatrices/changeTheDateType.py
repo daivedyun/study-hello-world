@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+#mere????
 #函数                  描述
 #int(x [,base])        将x转换为一个整数
 #long(x [,base] )      将x转换为一个长整数
