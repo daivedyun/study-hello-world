@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 #mere????
 #函数                  描述
-#int(x [,base])        将x转换为一个整数
+#int(t [,base])        将x转换为一个整数
 #long(x [,base] )      将x转换为一个长整数
 #float(x)              将x转换到一个浮点数
 #complex(real [,imag]) 创建一个复数
