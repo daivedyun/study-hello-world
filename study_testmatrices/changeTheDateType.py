@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 #mere????
 #函数                  描述
-#int(t [,base])        将x转换为一个整数
+#int(x [,base])        将x转换为一个整数
 #long(x [,base] )      将x转换为一个长整数
 #float(x)              将x转换到一个浮点数
 #complex(real [,imag]) 创建一个复数
@@ -19,7 +19,7 @@
 #hex(x)                将一个整数转换为一个十六进制字符串
 #oct(x)                将一个整数转换为一个八进制字符串
 
-a = 10
+a = 100
 b = 11.2
 st = "git hub is good stools for coding!!!"
 
@@ -29,6 +29,7 @@ print type(st)
 print isinstance(a,int)
 
 print int(b)
+print chr(a)
 
 print b
 print type(b)
