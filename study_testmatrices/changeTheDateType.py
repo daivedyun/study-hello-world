@@ -16,11 +16,12 @@
 #chr(x)                将一个整数转换为一个字符
 #unichr(x)             将一个整数转换为Unicode字符
 #ord(x)                将一个字符转换为它的整数值
-#hex(a)                将一个整数转换为一个十六进制字符串
+#hex(x)                将一个整数转换为一个十六进制字符串
 #oct(x)                将一个整数转换为一个八进制字符串
 
 a = 100
-b = 11.2
+b = 110.2
+c = 90
 st = "git hub is good stools for coding!!!"
 
 print type(a)
@@ -29,7 +30,7 @@ print type(st)
 print isinstance(a,int)
 
 print int(b)
-print chr(a)
+print chr(c)
 
 print b
 print type(b)
