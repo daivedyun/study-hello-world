@@ -20,6 +20,8 @@
 #oct(x)                将一个整数转换为一个八进制字符串
 
 #https://github.com/daivedyun/study-hello-world.git
+#在linux上安装git客户端，系统为centos6.5 64位，方法步骤如下。
+
 
 a = 100
 b = 110.2
