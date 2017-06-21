@@ -39,6 +39,7 @@ print tinydict.keys()
 print tinydict.values()
 print tinydict['name']
 print tinydict['dept']
+print tinydict['employnumber']
 print '\n'
 
 print counter
