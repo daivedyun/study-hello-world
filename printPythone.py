@@ -32,8 +32,8 @@ dict[2] = "this is two!!!!!!"
 
 tinydict = {'name':'edward', 'employnumber':655589, 'dept':'sale'}
 
-print dict['one']
 print dict[2]
+print dict['one']
 print tinydict
 print tinydict.keys()
 print tinydict.values()
