@@ -25,7 +25,7 @@ counter = 100
 miles = 1000.0 
 name = "John" # ???
 
-tinylist[1]= "china too"
+tinylist[0]= "china too"
 dict = {};
 dict['one'] = "this is one"
 dict[2] = "this is two!!!!!!"
