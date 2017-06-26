@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+#http://www.360doc.com/content/17/0406/07/5633793_643233897.shtml vim config
 
 a = 21
 b = 10
