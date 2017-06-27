@@ -60,3 +60,75 @@ print "5 - c ???:", c
 c = a >> 2;       # 15 = 0000 1111
 print "6 - c ???:", c
 
+
+a = 10
+b = 20
+ 
+if ( a and b ):
+    print "1 - ?? a ? b ?? true"
+else:
+    print "1 - ?? a ? b ????? true"
+ 
+if ( a or b ):
+    print "2 - ?? a ? b ?? true,???????? true"
+else:
+    print "2 - ?? a ? b ??? true"
+ 
+# ???? a ??
+a = 0
+if ( a and b ):
+    print "3 - ?? a ? b ?? true"
+else:
+    print "3 - ?? a ? b ????? true"
+ 
+if ( a or b ):
+    print "4 - ?? a ? b ?? true,???????? true"
+else:
+    print "4 - ?? a ? b ??? true"
+ 
+if not( a and b ):
+    print "5 - ?? a ? b ?? false,???????? false"
+else:
+    print "5 - ?? a ? b ?? true"
+
+
+p = 10
+t = 20
+list1 = [10, 2, 3, 4, 5 ];
+if(p in list1):
+    print "p is in the list1"
+else:
+    print "p is not in the list1"
+
+if(t not in list1):
+    print "t is not in the list1"
+else:
+    print "t is in the list1"
+
+
+m = 100
+n = 100
+if (m is n):
+    print "m is the same as b!"
+else:
+    print "m is not the same as b!"
+
+if (m is not n):
+    print "m is not  the same as b!"
+else:
+    print "m is the same as b!"
+
+yy = 66666666
+tt = 66666666
+
+if (tt is yy):
+    print "tt is the same as yy666666666!"
+else:
+    print "tt is not the same as yy!"
+
+if (tt == yy):
+    print "tt is the same as yy!"
+else:
+    print "tt is not the same as yy!"
+
+
