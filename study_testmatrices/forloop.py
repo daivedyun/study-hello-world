@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #-*- coding: UTF-8 -*-
+import pdb
 
 for chre in 'Python':     
    print 'current character:', chre
@@ -46,5 +47,19 @@ for i in range(0,len(s),3):
 
 for (index,char) in enumerate(s):
     print "index=%s ,char=%s" % (index,char)
+
+
+pdb.set_trace()
+num=[];
+i=2
+for i in range(2,100):
+   j=2
+   for j in range(2,i):
+      pdb.set_trace()
+      if(i%j==0):
+         break
+   else:
+      num.append(i)
+print(num)
 
 print "Good bye!"
